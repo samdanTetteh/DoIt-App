@@ -5,9 +5,9 @@ A mobile application that makes you manage your time and promoting productivity.
 
 ### Features
 1. Manage tasks in your things to complete.
-..*  Create list of todo's offline
-..*  Add new items to to-do list
-..*  Delete items from do to list
+  *  Create list of todo's offline
+  *  Add new items to to-do list
+  *  Delete items from do to list
 2. Create count down alarm to mark the end of a particular task
 3. Show notifications to make the end of task alarm trigger.
 4. Dark theme to improve battery usage.
