@@ -21,7 +21,7 @@ pattern in the data layer.
 
 System Design
 -------------
-[System Design Diagram](/Images/System%20Design.png)
+![System Design Diagram](/Images/System%20Design.png "System Design Diagram")
 
 
 
