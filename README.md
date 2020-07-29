@@ -15,7 +15,8 @@ A mobile application that makes you manage your time and promoting productivity.
 6. Syncing application data to server when device is idle or charging, etc
 7. Set task reminders
 
-### Architecture 
+ Architecture
+ -------------- 
 [Model-View-ViewModel](https://developer.android.com/jetpack/guide) as recommended by android with the repository 
 pattern in the data layer.
 
@@ -23,9 +24,8 @@ System Design
 -------------
 ![System Design Diagram](/Images/System%20Design.png "System Design Diagram")
 
-
-
-### Implementation
+Implementation
+----------------
 *   Views implementation with [Constraint Layout]() 
 *   Represent to do tasks user interface with [Recycler View]()
 *   View implementation with [Accessibility Features]()

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DoIt-App</string>
+    <string name="empty_txt">Nothing to show, press + to add some tasks</string>
+    <string name="enter_task_txt">Enter Task title</string>
+    <string name="save_txt">save</string>
+    <string name="cancel_txt">cancel</string>
 </resources>
